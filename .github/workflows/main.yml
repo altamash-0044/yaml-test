@@ -7,4 +7,4 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Output name to the console
-              run: echo "Hello! My name is John Doe."
+              run: echo "Hello! My name is Altamash Ahmad Abbasi."
